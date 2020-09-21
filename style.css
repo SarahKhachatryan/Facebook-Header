@@ -1,0 +1,49 @@
+.head1
+{
+    background-color: #4267B2;
+    height: 90px;
+    display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.for_facebook_logo
+{
+  margin-top: 20px;
+  width:20%;
+}
+.for_login_and_password
+{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.login
+{
+  background-color: #4372DA;
+  border: #0D2C70;
+  cursor: pointer;
+}
+.for
+{
+  display:flex;
+  flex-direction: column;
+  margin-left:20px;
+}
+.login
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #BCC8E3;
+}
+.link
+{
+  text-decoration: none;
+  font-weight: normal;
+  color: #BCC8E3;
+}
+.names
+{
+  color: white;
+  font-weight: normal;
+}
